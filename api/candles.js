@@ -1,4 +1,3 @@
-
 export default async function handler(req, res) {
   const intervals = {
     "5m": "5min",
@@ -84,4 +83,3 @@ export default async function handler(req, res) {
     });
   }
 }
-
